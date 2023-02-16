@@ -7,8 +7,11 @@
 ### 스터디 구성원
 
 [진우](https://github.com/CNJingo)
+
 [윤식](https://github.com/yunsik0115)
+
 [동균](https://github.com/kdg0209)
+
 [수환](https://github.com/hsh102103)
 
 # 1주차 - 운영체제 서론
