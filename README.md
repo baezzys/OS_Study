@@ -8,11 +8,13 @@
 
 [진우](https://github.com/CNJingo)
 
-[윤식](https://github.com/yunsik0115)
+[준우](https://github.com/JohnPrk)
 
 [동균](https://github.com/kdg0209)
 
 [수환](https://github.com/hsh102103)
+
+[민우]
 
 # 1주차 - 운영체제 서론
 
